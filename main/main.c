@@ -2,8 +2,14 @@
 
 int main()
 {
+    int mapa[TAMF][TAMC];
 
-    printf ("Hello world");
+    inicializaMatCero(mapa, TAMC);
+
+    harcodeoUnos(mapa, TAMC);
+
+    imprimirMapa(mapa, TAMC);
+
 
     return 0;
 }

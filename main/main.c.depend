@@ -1,9 +1,12 @@
 # depslib dependency file v1.0
-1726351045 source:c:\conwaygame\libs\funciones.c
-
-1726351227 source:c:\conwaygame\main\main.c
+1726354030 source:c:\conwaygame\libs\funciones.c
 	"../libs/funciones.h"
 
-1726351045 c:\conwaygame\libs\funciones.h
+1726353941 source:c:\conwaygame\main\main.c
 	"../libs/funciones.h"
+
+1726353991 c:\conwaygame\libs\funciones.h
+	"../libs/funciones.h"
+	<stdio.h>
+	<stdlib.h>
 
