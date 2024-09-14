@@ -1,0 +1,3 @@
+C:/ConwayGame/cmake-build-debug/CMakeFiles/ConwayGame.dir
+C:/ConwayGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ConwayGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
