@@ -1,9 +1,9 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
-#define TAMC 9
-#define TAMF 9
+#define TAMC 38
+#define TAMF 20
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>X
 
 void inicializaMatCero(int mapa[][TAMC], size_t);
 void imprimirMapa(int mapa[][TAMC], size_t);
